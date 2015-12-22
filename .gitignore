@@ -18,9 +18,7 @@ site-default/assets/files
 site-default/assets/sessions
 site-default/assets/cache
 site-default/assets/installed.php
-site
 site-skyscrapers
-.htaccess
 tmp
 upgrade.php
 .idea
